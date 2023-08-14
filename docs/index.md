@@ -15,11 +15,6 @@ In-person: There will be __NO__ in-person onsite meeting this year. We are sorry
                             (7:30 AM - 11 AM Eastern Daylight Time)<BR>__
 - Submission to journal: JBMS VDOS Special Issue (deadline TBD)<BR>
 
-## [Keynote Speakers](keynote-speakers.md)
-
-Rebecca Racz, PharmD. US Food and Drug Administration. <BR>
-Title: to-be-announced
-
 ## Conference Videos
 
 Playlists of the current and previous VDOS conference recordings are available on [YouTube](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists).  
