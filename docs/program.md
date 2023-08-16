@@ -1,24 +1,23 @@
-# VDOS-2023: International Workshop on Vaccine and Drug Ontology Studies
+# VDOS-2023: International Workshop on Vaccine and Drug Ontology Studies (August 30st, 2023)
 
 ## Program (Time zone: Brazilian time)
 
 | Start   | End   | Title                                                                                                 | Speaker                                                                                         | Recorded videos |
 |---------|-------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------|
-| 8:30 AM | 8:40  | Introduction                                                                                          |                                                                                                 |                 |
+| 8:30 AM | 8:35  | Introduction                                                                                          |                                                                                                 |                 |
 |         |       | **Section I: Vaccine**                                                                                |                                                                                                 |                 |
-| 8:40    | 9:00  | Ontological representation, modeling, and analysis of parasite vaccines                                | Anthony Huffman<br>(Univ. of Michigan; USA)                                                     |                 |
-| 9:00    | 9:20  | A Cascaded Framework for Mapping Vaccine Ontology Terms from Clinical Trials using Fine-Tuned Domain-Specific Language Models | Jianfu Li<br>(Univ. of Texas, Houston; USA)                                                     |                 |
-| 9:20    | 9:40  | Reviewing Open Information Extraction Approach for Coverage and Enrichment of the Vaccine Ontology    | Muhammad "Tuan" Amith<br>(Univ. of Texas Medical Branch; USA)                                  |                 |
-|         |       | **Section II: methodology**                                                                           |                                                                                                 |                 |
-| 9:40    | 10:00 | Leveraging Logical Definitions and Lexical Features to Detect Missing IS-A Relations in Biomedical Terminologies | Rashmie Abeysinghe<br>(Univ. of Texas, Houston; USA)                                            |                 |
-| 10:00   | 10:15 | Break                                                                                                |                                                                                                 |                 |
-|         |       | **Section III: Drug**                                                                                 |                                                                                                 |                 |
-| 10:15   | 10:35 | Enriching the FIDEO ontology with food-drug interactions from online knowledge sources               | Rabia Azzi<br>(Univ. of Texas, Houston; USA)                                                    |                 |
-| 10:35   | 10:45 | ChatGPT to identify of drug-drug interactions from texts                                             | Hasin Rehana<br>(Univ. of North Dakota; USA)                                                    |                 |
-| 10:45   | 11:25 | **Section IV: Keynote (TBD)**<br>Title TBA                                                       | TBD                                                                                           |                 |
-| 11:25   | 11:45 | **Section V: Discussion & Closing remark**                                                           |                                                                                                 |                 |
+| 8:35    | 9:00  | Ontological representation, modeling, and analysis of parasite vaccines                                | Anthony Huffman<br>(Univ. of Michigan; USA)                                                     |                 |
+| 9:00    | 9:25  | A Cascaded Framework for Mapping Vaccine Ontology Terms from Clinical Trials using Fine-Tuned Domain-Specific Language Models | Jianfu Li<br>(Univ. of Texas, Houston; USA)                                                     |                 |
+| 9:25    | 9:50  | Reviewing Open Information Extraction Approach for Coverage and Enrichment of the Vaccine Ontology    | Muhammad "Tuan" Amith<br>(Univ. of Texas Medical Branch; USA)                                  |                 |
+| 9:50    | 10:00  | Introduction to Vaccine KnowledgeBase VIOLIN    | Yongqun "Oliver" He<br>(Univ. of Michigan; USA)                                  |                 |
+| 10:00   | 10:15 | **Break**                                                                                                |                                                                                                 |                 |
+|         |       | **Section II: methodology & Drug**                                                                           |                                                                                                 |                 |
+| 10:15    | 10:40 | Leveraging Logical Definitions and Lexical Features to Detect Missing IS-A Relations in Biomedical Terminologies | Rashmie Abeysinghe<br>(Univ. of Texas, Houston; USA)                                            |                 |
+| 10:40   | 11:05 | Enriching the FIDEO ontology with food-drug interactions from online knowledge sources               | Rabia Azzi<br>(Univ. of Texas, Houston; USA)                                                    |                 |
+| 11:05   | 11:15 | ChatGPT to identify of drug-drug interactions from texts                                             | Hasin Rehana<br>(Univ. of North Dakota; USA)                                                    |                 |
+| 11:15   | 11:45 | **Section III: Discussion & Closing remark**                                                           |                                                                                                 |                 |
 
-## Please note the time difference. 9 AM Brazilian time == 8 AM Eastern Daylight Time (EDT)
+## Please note the time difference. The meeting starts at 8:30 AM Brazilian time, which is 7 AM Eastern Daylight Time.
 
 ## Conference Videos
 
