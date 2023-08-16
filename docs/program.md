@@ -1,4 +1,4 @@
-# VDOS-2023: International Workshop on Vaccine and Drug Ontology Studies (August 30st, 2023)
+# VDOS-2023: International Workshop on Vaccine and Drug Ontology Studies (August 29th, 2023)
 
 ## Program (Time zone: Brazilian time)
 
@@ -17,7 +17,7 @@
 | 11:05   | 11:15 | ChatGPT to identify of drug-drug interactions from texts                                             | Hasin Rehana<br>(Univ. of North Dakota; USA)                                                    |                 |
 | 11:15   | 11:45 | **Section III: Discussion & Closing remark**                                                           |                                                                                                 |                 |
 
-## Please note the time difference. The meeting starts at 8:30 AM Brazilian time, which is 7 AM Eastern Daylight Time.
+## Please note the time difference. The meeting starts at 8:30 AM Brazilian time, 7 AM Eastern Daylight Time.
 
 ## Conference Videos
 
