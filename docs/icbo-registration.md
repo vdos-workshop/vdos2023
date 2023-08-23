@@ -1,3 +1,5 @@
 # ICBO 2023 Registration
 
-Details will become available as soon as ICBO finalizes the registration process.
+https://www.icbo2023.ncor-brasil.org/registration.html
+
+Let us know if you have any questions.
