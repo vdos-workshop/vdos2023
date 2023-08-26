@@ -17,7 +17,7 @@
 | 11:05   | 11:15 | ChatGPT to identify of drug-drug interactions from texts                                             | Hasin Rehana<br>(Univ. of North Dakota; USA)                                                    |                 |
 | 11:15   | 11:45 | **Section III: Discussion & Closing remark**                                                           |                                                                                                 |                 |
 
-## Please note the time difference. The meeting starts at 8:30 AM Brazilian time, 7 AM Eastern Daylight Time.
+## Please note the time difference. The meeting starts at 8:30 AM Brazilian time, 7:30 AM Eastern Daylight Time.
 
 ## Conference Videos
 
