@@ -13,7 +13,7 @@
 | 10:00   | 10:15 | **Break**                                                                                                |                                                                                                 |                 |
 |         |       | **Section II: methodology & Drug**                                                                           |                                                                                                 |                 |
 | 10:15    | 10:40 | Leveraging Logical Definitions and Lexical Features to Detect Missing IS-A Relations in Biomedical Terminologies | Rashmie Abeysinghe<br>(Univ. of Texas, Houston; USA)                                            |                 |
-| 10:40   | 11:05 | Enriching the FIDEO ontology with food-drug interactions from online knowledge sources               | Rabia Azzi<br>(Univ. of Texas, Houston; USA)                                                    |                 |
+| 10:40   | 11:05 | Enriching the FIDEO ontology with food-drug interactions from online knowledge sources               | Fleur Mougin<br>(Univ. Bordeaux, France)                                                    |                 |
 | 11:05   | 11:15 | ChatGPT to identify of drug-drug interactions from texts                                             | Hasin Rehana<br>(Univ. of North Dakota; USA)                                                    |                 |
 | 11:15   | 11:45 | **Section III: Discussion & Closing remark**                                                           |                                                                                                 |                 |
 
