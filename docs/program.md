@@ -1,4 +1,8 @@
 # VDOS-2023: International Workshop on Vaccine and Drug Ontology Studies (August 29th, 2023)
+Virtual: Zoom (the link will be provided to the registered participants before the workshop)<BR>
+Call Link: __https://umich.zoom.us/j/93971716684__<BR>
+Meeting ID: 939 7171 6684<BR>
+Passcode: __074374__<BR><BR>
 
 ## Program (Time zone: Brazilian time)
 
