@@ -2,9 +2,6 @@
 
 ## Location
 Virtual: Zoom (the link will be provided to the registered participants before the workshop)<BR>
-Call Link: [__https://umich.zoom.us/j/93971716684__](https://umich.zoom.us/j/93971716684)<BR>
-Meeting ID: 939 7171 6684<BR>
-Passcode: __074374__<BR><BR>
 In-person: There will be __NO__ in-person onsite meeting this year. We are sorry for the inconvenience. 
 
 ## Conference Dates
@@ -14,7 +11,7 @@ In-person: There will be __NO__ in-person onsite meeting this year. We are sorry
 - Acceptance of abstract: August 11, 2023<BR>
 - Workshop: __August 29th, 2023 (8:30 AM – noon Brazilian time)<BR>
                             (7:30 AM - 11 AM Eastern Daylight Time)<BR>__
-- Submission to journal: JBMS VDOS Special Issue (deadline TBD)<BR>
+- Submission to journal: [JBMS VDOS Collection by __October 31, 2023__](https://jbiomedsem.biomedcentral.com/articles/collections)<BR>
 
 ## Recording and Publishing Disclaimer
 By participating in this workshop, attendees acknowledge and agree that the workshop will be recorded and that their participation, including any comments, questions, and visual/audio presence, may be captured during this recording. The recorded content may be edited, repurposed, or otherwise modified by the workshop organizers, who reserve the right to publish the content on platforms, including but not limited to YouTube. By participating, attendees grant the workshop organizers the irrevocable right to use the recorded content for promotional, educational, and other appropriate purposes without further notice or compensation. By continuing with participation, attendees confirm their understanding and agreement to these terms.
