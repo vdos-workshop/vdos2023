@@ -2,7 +2,7 @@
 
 ## Location
 Virtual: Zoom (the link will be provided to the registered participants before the workshop)<BR>
-Call Link: __https://umich.zoom.us/j/93971716684__<BR>
+Call Link: [__https://umich.zoom.us/j/93971716684__](https://umich.zoom.us/j/93971716684)<BR>
 Meeting ID: 939 7171 6684<BR>
 Passcode: __074374__<BR><BR>
 In-person: There will be __NO__ in-person onsite meeting this year. We are sorry for the inconvenience. 
